@@ -48,7 +48,3 @@ A modern, responsive, arcade-style **Simon Says** memory game built with vanilla
 5. Missing a sequence results in **Game Over**!
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use for learning and personal projects.
